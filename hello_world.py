@@ -5,3 +5,6 @@ for i in range(1, 6):
     
 def hello():
     return "Hello World"
+
+def asd():
+    return "asd"
